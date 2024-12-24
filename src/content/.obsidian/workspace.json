@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/02-astro-sphere-getting-started/index.md",
+                "file": "blog/01-astro-sphere-file-structure/index.md",
                 "mode": "preview",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/02-astro-sphere-getting-started/index.md",
+                "file": "blog/01-astro-sphere-file-structure/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/02-astro-sphere-getting-started/index.md",
+                "file": "blog/01-astro-sphere-file-structure/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/02-astro-sphere-getting-started/index.md"
+                "file": "blog/01-astro-sphere-file-structure/index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of index"
@@ -164,11 +164,13 @@
   },
   "active": "d2c8d0df3ab1ec8a",
   "lastOpenFiles": [
-    "blog/01-astro-sphere-file-structure/index.md",
-    "projects/project-4/index.md",
-    "projects/project-3/index.md",
     "projects/project-2/index.md",
     "projects/project-1/index.md",
-    "legal/privacy.md"
+    "legal/terms.md",
+    "legal/privacy.md",
+    "blog/02-astro-sphere-getting-started/index.md",
+    "blog/01-astro-sphere-file-structure/index.md",
+    "projects/project-4/index.md",
+    "projects/project-3/index.md"
   ]
 }
