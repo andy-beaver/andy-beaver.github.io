@@ -274,7 +274,29 @@ declare module 'astro:content' {
 	};
 
 	type DataEntryMap = {
-		
+		".obsidian": {
+"app": {
+	id: "app";
+  collection: ".obsidian";
+  data: any
+};
+"appearance": {
+	id: "appearance";
+  collection: ".obsidian";
+  data: any
+};
+"core-plugins": {
+	id: "core-plugins";
+  collection: ".obsidian";
+  data: any
+};
+"workspace": {
+	id: "workspace";
+  collection: ".obsidian";
+  data: any
+};
+};
+
 	};
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
